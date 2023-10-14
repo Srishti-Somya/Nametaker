@@ -2,6 +2,12 @@ import { Contributor } from "../types";
 
 const contributors: Contributor[] = [
   {
+    name: "Srishti Somya",
+    emoji: "👩‍💻",
+    favoriteQuote: "I am a slow walker, but I never walk back.",
+    twitterUrl: "https://twitter.com/SrishtiSomya3",
+  },
+  {
     name: "Joshua Omobola",
     emoji: "🌵",
     favoriteQuote: "I believe in unicorns",
